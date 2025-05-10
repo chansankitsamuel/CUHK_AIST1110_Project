@@ -1,0 +1,89 @@
+[
+    {
+        "question": "Name a popular dim sum dish.",
+        "answers": [
+            {
+                "text": "HAR GOW",
+                "points": 28
+            },
+            {
+                "text": "SIU MAI",
+                "points": 25
+            },
+            {
+                "text": "CHAR SIU BAO",
+                "points": 20
+            },
+            {
+                "text": "TURNIP CAKE",
+                "points": 12
+            },
+            {
+                "text": "CHICKEN FEET",
+                "points": 10
+            },
+            {
+                "text": "LOTUS LEAF RICE",
+                "points": 5
+            }
+        ]
+    },
+    {
+        "question": "Name a famous Hong Kong landmark.",
+        "answers": [
+            {
+                "text": "VICTORIA PEAK",
+                "points": 35
+            },
+            {
+                "text": "BIG BUDDHA",
+                "points": 20
+            },
+            {
+                "text": "STAR FERRY",
+                "points": 15
+            },
+            {
+                "text": "TSIM SHA TSUI",
+                "points": 12
+            },
+            {
+                "text": "NGONG PING 360",
+                "points": 10
+            },
+            {
+                "text": "AVENUE OF STARS",
+                "points": 8
+            }
+        ]
+    },
+    {
+        "question": "Name a traditional Hong Kong drink.",
+        "answers": [
+            {
+                "text": "MILK TEA",
+                "points": 40
+            },
+            {
+                "text": "YUENYEUNG",
+                "points": 25
+            },
+            {
+                "text": "SUGARCANE JUICE",
+                "points": 15
+            },
+            {
+                "text": "HERBAL TEA",
+                "points": 10
+            },
+            {
+                "text": "SOY MILK",
+                "points": 6
+            },
+            {
+                "text": "ALMOND TEA",
+                "points": 4
+            }
+        ]
+    }
+]
